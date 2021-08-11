@@ -1,0 +1,33 @@
+span {
+  font-size: 30px;
+}
+
+label {
+  font-size: 14px;
+  color: red;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+#Camera,
+#Result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+.EmotionName {
+  font-size: 40px;
+  color: black;
+}
+
+.Emoji {
+  font-size: 48px;
+}
+
+.Heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
